@@ -1,0 +1,27 @@
+body {
+    background-color: #6e2cf4;
+}
+
+.navbar{
+    margin-top: 15px;
+    
+    
+}
+
+.slide img{
+    height: 50vh;
+    
+}
+
+.btn-custom {
+    background-color: #6e2cf4; 
+    color: #fff; 
+    border: none; 
+}
+
+
+.btn-custom:hover {
+    background-color: #4b1a9a; 
+    border: none; 
+}
+
